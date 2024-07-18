@@ -13,7 +13,6 @@ import { CommonModule } from '@angular/common';
       </form>
     </section>
     <section class="results">
-      
     </section> 
   `,
   styleUrls: ['./home.component.css']
